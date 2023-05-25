@@ -1,3 +1,11 @@
+/*
+Two positive integers n and m are given. Print the matrix that consists of n lines and m columns, filled with positive integers from 1 to n * m, as shown in the sample.
+Input data:
+Two positive integers n and m (1 ≤ n, m ≤ 100).
+Output data:
+Print the required matrix.
+*/
+
 #include <bits/stdc++.h>
 using namespace std;                                                                                                                                                                                                                                                                                            int main()
 {                                                                                                                                                               
